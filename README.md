@@ -6,9 +6,9 @@ O projeto da Barbearia Alura é um site responsivo desenvolvido com HTML, CSS e 
 
 ## Instalação
 
-Clone este repositório: git clone https://github.com/seu-usuario/barbearia-alura.gi
+Clone este repositório: git clone  `https://github.com/seu-usuario/barbearia-alura.git`
 
-Navegue até o diretório do projeto: cd barbearia-alura
+Navegue até o diretório do projeto: `cd barbearia-alura`
 
 ## Tecnologias Utilizadas
 * HTML
