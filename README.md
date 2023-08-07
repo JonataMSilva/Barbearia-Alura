@@ -2,7 +2,7 @@
 Este é o repositório do projeto da Barbearia Alura, desenvolvido como parte do curso de HTML da Alura. Neste projeto, criamos um website responsivo para a Barbearia Alura.
 
 ## Descrição
-O projeto da Barbearia Alura é um site responsivo desenvolvido com HTML, CSS e JavaScript. Ele apresenta uma página informativa sobre a barbearia, com um design que se adapta de forma fluida a diferentes tamanhos de tela, proporcionando uma experiência de usuário agradável em dispositivos móveis, tablets e desktops. O JavaScript foi utilizado para melhorar a interatividade do site, como menus drop-down e outros recursos.
+O projeto da Barbearia Alura é um site responsivo desenvolvido com HTML e CSS. Ele apresenta uma página informativa sobre a barbearia, com um design que se adapta de forma fluida a diferentes tamanhos de tela, proporcionando uma experiência de usuário agradável em dispositivos móveis, tablets e desktops.
 
 ## Instalação
 
@@ -15,7 +15,6 @@ Navegue até o diretório do projeto: `cd barbearia-alura`
 
 * CSS
 
-* JavaScript
 
 
 
