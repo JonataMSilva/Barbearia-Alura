@@ -1,4 +1,4 @@
-# HTML-CSS
+# Barbearia Alura
 
 Projeto de HTML e CSS do [curso HTML5 e CSS3: crie uma página da Web da Alura](https://cursos.alura.com.br/course/html5-css3-primeiros-passos)
 <br>
